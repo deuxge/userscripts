@@ -8,6 +8,7 @@
 // @match        *.extreme-down.xyz*
 // @match        *.zone-annuaire.com
 // @match        *.zone-annuaire.com/*
+// @download     https://github.com/deuxge/userscripts/raw/master/zt_at_clickfix.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
